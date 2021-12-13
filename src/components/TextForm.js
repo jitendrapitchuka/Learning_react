@@ -18,7 +18,7 @@ export default function TextForm(props) {
         setText(event.target.value);
     }
 
-    const [text, setText] = useState("Enter text here");
+    const [text, setText] = useState("");
 
     return (
         <>
@@ -34,7 +34,7 @@ export default function TextForm(props) {
         </div>
         <div className="container my-4">
             <h1>your text summary</h1>
-            <p> {text.split(" ").length} words and {text.length} characters   </p>
+            <p> {text.split(" ").length-1} words and {text.length} characters   </p>
             <p>{0.08 * text.split(" ").length} minutes read</p>
             <h2>preview</h2>
             <p>{text}</p>
