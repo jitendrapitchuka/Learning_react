@@ -4,7 +4,7 @@ import Navbar from './components/Navbar';
 import TextForm from './components/TextForm';
 import React, { useState } from 'react';
 import Alert from './components/Alert';
-import {BrowserRouter as Router,Routes,Route} from "react-router-dom";
+// import {BrowserRouter as Router,Routes,Route} from "react-router-dom";
 
 
 function App() {
@@ -36,19 +36,19 @@ setTimeout(() => {
 }
   return (
    <>
-   <Router>
+   {/* <Router> */}
 <Navbar title="Text conversion" mode={mode} toggleMode={toggleMode}/>
 <Alert alert={alert}/>
 <div className='container my-5' >
-
+{/* 
        <Routes>
         <Route path="/about" element={<About />} />
         <Route path="/" element={ <TextForm showAlert={showAlert} heading="Enter the text" mode={mode}/>} />
-      </Routes>
+      </Routes> */}
+         <TextForm showAlert={showAlert} heading="Enter the text" mode={mode}/>
         
-
 </div>
-</Router>
+{/* </Router> */}
    </>
   );
 }
