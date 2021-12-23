@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/learning_react/static/css/main.a617e044.chunk.css",
-    "main.js": "/learning_react/static/js/main.36a4d4a8.chunk.js",
-    "main.js.map": "/learning_react/static/js/main.36a4d4a8.chunk.js.map",
-    "runtime-main.js": "/learning_react/static/js/runtime-main.9eab8de4.js",
-    "runtime-main.js.map": "/learning_react/static/js/runtime-main.9eab8de4.js.map",
-    "static/js/2.effed982.chunk.js": "/learning_react/static/js/2.effed982.chunk.js",
-    "static/js/2.effed982.chunk.js.map": "/learning_react/static/js/2.effed982.chunk.js.map",
-    "static/js/3.0bea497e.chunk.js": "/learning_react/static/js/3.0bea497e.chunk.js",
-    "static/js/3.0bea497e.chunk.js.map": "/learning_react/static/js/3.0bea497e.chunk.js.map",
-    "index.html": "/learning_react/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/learning_react/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.effed982.chunk.js.LICENSE.txt": "/learning_react/static/js/2.effed982.chunk.js.LICENSE.txt"
+    "main.css": "/learning_react_text_conversion/static/css/main.a617e044.chunk.css",
+    "main.js": "/learning_react_text_conversion/static/js/main.edf3ba9a.chunk.js",
+    "main.js.map": "/learning_react_text_conversion/static/js/main.edf3ba9a.chunk.js.map",
+    "runtime-main.js": "/learning_react_text_conversion/static/js/runtime-main.a8f7ade6.js",
+    "runtime-main.js.map": "/learning_react_text_conversion/static/js/runtime-main.a8f7ade6.js.map",
+    "static/js/2.effed982.chunk.js": "/learning_react_text_conversion/static/js/2.effed982.chunk.js",
+    "static/js/2.effed982.chunk.js.map": "/learning_react_text_conversion/static/js/2.effed982.chunk.js.map",
+    "static/js/3.0bea497e.chunk.js": "/learning_react_text_conversion/static/js/3.0bea497e.chunk.js",
+    "static/js/3.0bea497e.chunk.js.map": "/learning_react_text_conversion/static/js/3.0bea497e.chunk.js.map",
+    "index.html": "/learning_react_text_conversion/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/learning_react_text_conversion/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.effed982.chunk.js.LICENSE.txt": "/learning_react_text_conversion/static/js/2.effed982.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9eab8de4.js",
+    "static/js/runtime-main.a8f7ade6.js",
     "static/js/2.effed982.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.36a4d4a8.chunk.js"
+    "static/js/main.edf3ba9a.chunk.js"
   ]
 }
